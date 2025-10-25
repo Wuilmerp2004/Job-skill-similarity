@@ -29,9 +29,6 @@ Key columns used:
 - Identified the top 10 most similar jobs for each of three query jobs.  
 - Visualized skill similarity with bar charts to highlight overlapping competencies.  
 
-Example Figure:  
-*Graph of most similar skills across jobs in the dataset*  
-
 ## Limitations
 - Limited coverage in some domains (e.g., missing specialized IT roles like Data Scientist or Software Engineer).  
 - Skills are based on job postings only, which may not capture differences in practice.  
